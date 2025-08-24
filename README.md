@@ -1,7 +1,8 @@
 # EXPERIMENT--01-ALP-FOR FUNDAMENTAL ARITHMETIC AND LOGICAL OPERATIONS-8086
-Name : NARRA RAMYA
-Reg no : 212223040128 
-Date of experiment :
+
+### Name : NARRA RAMYA
+### Reg no : 212223040128 
+### Date of experiment :
 
 
 
@@ -122,6 +123,7 @@ RET
 ## Output :
 
 
+<img width="1136" height="817" alt="image" src="https://github.com/user-attachments/assets/8b312365-8659-421a-a6be-06601d8e1b2d" />
 
 
 
@@ -129,7 +131,7 @@ RET
  
 
 
-
+Thus the execution of ALP on fundamental arithmetic and logical operation has been performed successfully.
 
 
 
